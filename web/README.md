@@ -1,7 +1,6 @@
 # தமிழ்நாடு ஓட்டுநர் உரிம விண்ணப்ப மறுஆய்வு முறைமை
 ## Tamil Nadu Driving Licence Application Review Officer Dashboard (RTO Portal)
 
-> **Kenpath Full Stack AI Engineer Assignment MVP**  
 > A Tamil-first, responsive administrative review dashboard for Regional Transport Office (RTO) officers in Tamil Nadu, powered by deterministic rule-based AI review assistance, JWT-compatible client session demo authentication, and browser persistence.
 
 ---
