@@ -1,0 +1,33 @@
+[
+  {
+    "id": "OFF-TN-001",
+    "username": "officer_chennai",
+    "password": "tn_rto_2026",
+    "name": "மு. கார்த்திகேயன்",
+    "role": "MVI",
+    "designation": "முதன்மை மோட்டார் வாகன ஆய்வாளர் (MVI)",
+    "rtoOffice": "சென்னை மத்திய வட்டாரப் போக்குவரத்து அலுவலகம்",
+    "district": "சென்னை"
+  },
+  {
+    "id": "OFF-TN-002",
+    "username": "officer_kovai",
+    "password": "tn_rto_2026",
+    "name": "சு. லட்சுமி",
+    "role": "ARTO",
+    "designation": "உதவி வட்டாரப் போக்குவரத்து அலுவலர் (ARTO)",
+    "rtoOffice": "கோயம்புத்தூர் தெற்கு RTO",
+    "district": "கோயம்புத்தூர்"
+  },
+  {
+    "id": "OFF-TN-003",
+    "username": "admin",
+    "password": "admin123",
+    "name": "எஸ். ராமநாதன்",
+    "role": "RTO_ADMIN",
+    "designation": "வட்டாரப் போக்குவரத்து அலுவலர் (RTO)",
+    "rtoOffice": "தமிழ்நாடு போக்குவரத்துத் தலைமையகம்",
+    "district": "சென்னை"
+  }
+]
+

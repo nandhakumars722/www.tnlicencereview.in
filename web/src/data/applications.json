@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "app-001",
+    "applicationNumber": "TN-2026-LL-10042",
+    "applicantName": "க. அன்பரசன்",
+    "applicantNameEn": "K. Anbarasan",
+    "applicationType": "LL",
+    "age": 19,
+    "gender": "male",
+    "dob": "2007-03-14",
+    "phoneNumber": "98401 23456",
+    "email": "anbarasan.k@gmail.com",
+    "district": "சென்னை",
+    "rtoCode": "TN-01 (சென்னை மத்திய)",
+    "address": "எண் 14, பாரதிதாசன் தெரு, அண்ணா நகர், சென்னை - 600040",
+    "submittedDate": "2026-10-21",
+    "status": "pending",
+    "priority": "high",
+    "vehicleClass": ["MCWG", "LMV"],
+    "documents": [
+      {
+        "id": "doc-001-1",
+        "name": "ஆதார் அட்டை (முகவரி மற்றும் அடையாளச் சான்று)",
+        "category": "identity",
+        "fileNumber": "UID-TN-7721",
+        "status": "verified",
+        "uploadedAt": "2026-10-21",
+        "notes": "ஆதார் அட்டை முகவரியுடன் பொருந்துகிறது"
+      },
+      {
+        "id": "doc-001-2",
+        "name": "பத்தாம் வகுப்பு மதிப்பெண் சான்றிதழ் (வயதுச் சான்று)",
+        "category": "age",
+        "fileNumber": "SSLC-2023-8891",
+        "status": "verified",
+        "uploadedAt": "2026-10-21",
+        "notes": "பிறந்த தேதி 14-03-2007 உறுதி செய்யப்பட்டது"
+      },
+      {
+        "id": "doc-001-3",
+        "name": "சுய அறிவிப்பு படிவம் 1 (உடற்தகுதி)",
+        "category": "medical",
+        "fileNumber": "FORM1-DECL-901",
+        "status": "verified",
+        "uploadedAt": "2026-10-21",
+        "notes": "உடற்தகுதி சுய அறிவிப்பு பூர்த்தி செய்யப்பட்டுள்ளது"
+      }
+    ],
+    "eligibilityChecks": [
+      {
+        "id": "chk-001-1",
+        "label": "குறைந்தபட்ச வயதுத் தகுதி (18 வயது நிறைவு)",
+        "passed": true,
+        "requiresReview": false,
+        "notes": "விண்ணப்பதாரரின் வயது 19"
+      },
+      {
+        "id": "chk-001-2",
+        "label": "விதிமுறைகள் அறிவுத் தேர்வு (LLR Mock Test)",
+        "passed": true,
+        "requiresReview": false,
+        "notes": "மதிப்பெண்: 20/20 தேர்ச்சி"
+      },
+      {
+        "id": "chk-001-3",
+        "label": "முந்தைய குற்றவியல் அல்லது போக்குவரத்து மீறல்கள் இன்மை",
+        "passed": true,
+        "requiresReview": false,
+        "notes": "மீறல் பதிவுகள் எதுவும் இல்லை"
+      }
+    ],
+    "riskFlags": [],
+    "reviewNotes": "அனைத்து அடிப்படை ஆவணங்களும் சரியாக உள்ளன. இறுதி ஒப்புதல் அளிக்க தகுதியானது.",
+    "history": [
+      {
+        "id": "hist-001-1",
+        "timestamp": "2026-10-21 10:30",
+        "action": "submitted",
+        "officerName": "பொது போர்ட்டல் அமைப்பு",
+        "officerRole": "சிஸ்டம்",
+        "decisionText": "விண்ணப்பம் இணையம் வழியாக சமர்ப்பிக்கப்பட்டது"
+      }
+    ],
+    "lastUpdated": "2026-10-21 10:30"
+  },
+  {
+    "id": "app-002",
+    "applicationNumber": "TN-2026-DL-20815",
+    "applicantName": "செ. மீனாட்சி",
+    "applicantNameEn": "S. Meenakshi",
+    "applicationType": "DL",
+    "age": 24,
+    "gender": "female",
+    "dob": "2002-08-11",
+    "phoneNumber": "94432 87654",
+    "email": "meenakshi.s@outlook.com",
+    "district": "மதுரை",
+    "rtoCode": "TN-58 (மதுரை தெற்கு)",
+    "address": "45/2, அழகர்கோவில் சாலை, தல்லாகுளம், மதுரை - 625002",
+    "submittedDate": "2026-10-20",
+    "status": "under_review",
+    "priority": "medium",
+    "vehicleClass": ["LMV"],
+    "documents": [
+      {
+        "id": "doc-002-1",
+        "name": "பழகுநர் உரிமம் (LLR அசல் நகல்)",
+        "category": "existing_licence",
+        "fileNumber": "LLR-TN58-2026-4432",
+        "status": "verified",
+        "uploadedAt": "2026-10-20",
+        "notes": "LLR செல்லுபடியாகும் காலம் உள்ளது (செப்டம்பர் 2026 வரை)"
+      },
+      {
+        "id": "doc-002-2",
+        "name": "அங்கீகரிக்கப்பட்ட ஓட்டுநர் பள்ளி பயிற்சி சான்றிதழ் (படிவம் 5)",
+        "category": "training",
+        "fileNumber": "DS-MDU-118",
+        "status": "verified",
+        "uploadedAt": "2026-10-20",
+        "notes": "மதுரை அரசு அங்கீகாரம் பெற்ற ஓட்டுநர் பயிற்சி பள்ளி"
+      },
+      {
+        "id": "doc-002-3",
+        "name": "ஆதார் அட்டை நகல்",
+        "category": "identity",
+        "fileNumber": "UID-TN-9921",
+        "status": "verified",
+        "uploadedAt": "2026-10-20"
+      }
+    ],
+    "eligibilityChecks": [
+      {
+        "id": "chk-002-1",
+        "label": "LLR பெற்று 30 நாட்கள் நிறைவு பெற்ற நிலை",
+        "passed": true,
+        "requiresReview": false,
+        "notes": "LLR பெற்ற தேதி: 2026-08-15 (60 நாட்கள் முடிந்தது)"
+      },
+      {
+        "id": "chk-002-2",
+        "label": "வாகனம் ஓட்டுநர் தகுதி களப்பரிசோதனை (Driving Practical Track Test)",
+        "passed": true,
+        "requiresReview": false,
+        "notes": "H-டிராக் மற்றும் சாய்வு பாதை சோதனையில் தேர்ச்சி"
+      }
+    ],
+    "riskFlags": [],
+    "reviewNotes": "களப் பரிசோதனை முடிவுகள் பதிவு செய்யப்பட்டுள்ளன. அதிகாரியின் இறுதி கையொப்பத்திற்கு நிலுவையில் உள்ளது.",
+    "history": [
+      {
+        "id": "hist-002-1",
+        "timestamp": "2026-10-20 09:15",
+        "action": "submitted",
+        "officerName": "பொது போர்ட்டல் அமைப்பு",
+        "officerRole": "சிஸ்டம்",
+        "decisionText": "விண்ணப்பம் பெறப்பட்டது"
+      },
+      {
+        "id": "hist-002-2",
+        "timestamp": "2026-10-22 11:20",
+        "action": "under_review",
+        "officerName": "சு. லட்சுமி",
+        "officerRole": "ARTO",
+        "decisionText": "ஆய்வு தொடங்கப்பட்டது மற்றும் ஆவண சரிபார்ப்பு முடிந்தது"
+      }
+    ],
+    "lastUpdated": "2026-10-22 11:20"
+  },
+  {
+    "id": "app-003",
+    "applicationNumber": "TN-2026-RN-30114",
+    "applicantName": "வ. சிவகுமார்",
+    "applicantNameEn": "V. Sivakumar",
+    "applicationType": "RENEWAL",
+    "age": 48,
+    "gender": "male",
+    "dob": "1978-05-22",
+    "phoneNumber": "98421 99882",
+    "email": "siva.kumar1978@gmail.com",
+    "district": "கோயம்புத்தூர்",
+    "rtoCode": "TN-38 (கோயம்புத்தூர் தெற்கு)",
+    "address": "12A, பாரதி பார்க் சாலை, சாய்பாபா காலனி, கோயம்புத்தூர் - 641011",
+    "submittedDate": "2026-10-18",
+    "status": "returned",
+    "priority": "high",
+    "vehicleClass": ["LMV", "MCWG"],
+    "documents": [
+      {
+        "id": "doc-003-1",
+        "name": "முந்தைய ஓட்டுநர் உரிமம் அசல் அட்டை நகல்",
+        "category": "existing_licence",
+        "fileNumber": "DL-TN38-2006-00412",
+        "status": "verified",
+        "uploadedAt": "2026-10-18",
+        "notes": "காலாவதியான தேதி: 2026-09-30"
+      },
+      {
+        "id": "doc-003-2",
+        "name": "மருத்துவத் தகுதிச் சான்றிதழ் படிவம் 1A (40 வயதுக்கு மேற்பட்டோருக்கு கட்டாயம்)",
+        "category": "medical",
+        "fileNumber": "",
+        "status": "missing",
+        "uploadedAt": "2026-10-18",
+        "notes": "படிவம் 1A மருத்துவ சான்றிதழ் சமர்ப்பிக்கப்படவில்லை"
+      },
+      {
+        "id": "doc-003-3",
+        "name": "முகவரிச் சான்று (மின் கட்டண ரசீது)",
+        "category": "address",
+        "fileNumber": "EB-CBE-9942",
+        "status": "verified",
+        "uploadedAt": "2026-10-18"
+      }
+    ],
+    "eligibilityChecks": [
+      {
+        "id": "chk-003-1",
+        "label": "40 வயதுக்கு மேற்பட்டோருக்கான அங்கீகரிக்கப்பட்ட மருத்துவர் சான்றிதழ்",
+        "passed": false,
+        "requiresReview": true,
+        "notes": "படிவம் 1A மருத்துவ சான்றிதழ் சமர்ப்பிக்கப்படவில்லை"
+      },
+      {
+        "id": "chk-003-2",
+        "label": "காலாவதியான கால வரம்பிற்குள் விண்ணப்பித்தல் (1 ஆண்டுக்குள்)",
+        "passed": true,
+        "requiresReview": false,
+        "notes": "காலாவதியான 20 நாட்களுக்குள் விண்ணப்பிக்கப்பட்டுள்ளது"
+      }
+    ],
+    "riskFlags": ["விடுபட்ட மருத்துவ சான்றிதழ் (படிவம் 1A)", "40+ வயது வரம்பு தகுதி எச்சரிக்கை"],
+    "reviewNotes": "விண்ணப்பதாரர் 40 வயதிற்கு மேற்பட்டவர் என்பதால் பதிவுபெற்ற மருத்துவரிடம் படிவம் 1A பெற்று பதிவேற்ற வேண்டும்.",
+    "history": [
+      {
+        "id": "hist-003-1",
+        "timestamp": "2026-10-18 14:10",
+        "action": "submitted",
+        "officerName": "பொது போர்ட்டல் அமைப்பு",
+        "officerRole": "சிஸ்டம்",
+        "decisionText": "புதுப்பித்தல் விண்ணப்பம் சமர்ப்பிக்கப்பட்டது"
+      },
+      {
+        "id": "hist-003-2",
+        "timestamp": "2026-10-19 16:45",
+        "action": "returned",
+        "officerName": "சு. லட்சுமி",
+        "officerRole": "ARTO",
+        "decisionText": "திருத்தத்திற்கு திருப்பி அனுப்பப்பட்டது",
+        "reason": "40 வயதுக்கு மேற்பட்டோருக்கு தேவையான படிவம் 1A மருத்துவச் சான்றிதழ் விடுபட்டுள்ளது."
+      }
+    ],
+    "lastUpdated": "2026-10-19 16:45"
+  },
+  {
+    "id": "app-004",
+    "applicationNumber": "TN-2026-DL-20993",
+    "applicantName": "பா. விஜயலட்சுமி",
+    "applicantNameEn": "P. Vijayalakshmi",
+    "applicationType": "DL",
+    "age": 28,
+    "gender": "female",
+    "dob": "1998-11-04",
+    "phoneNumber": "97890 12345",
+    "email": "vijaya.lakshmi@gmail.com",
+    "district": "திருச்சிராப்பள்ளி",
+    "rtoCode": "TN-45 (திருச்சிராப்பள்ளி மேற்கு)",
+    "address": "28, மேலப்புதூர் மெயின் ரோடு, திருச்சிராப்பள்ளி - 620001",
+    "submittedDate": "2026-10-15",
+    "status": "approved",
+    "priority": "low",
+    "vehicleClass": ["MCWG"],
+    "documents": [
+      {
+        "id": "doc-004-1",
+        "name": "பழகுநர் உரிமம் (LLR)",
+        "category": "existing_licence",
+        "fileNumber": "LLR-TN45-2026-9811",
+        "status": "verified",
+        "uploadedAt": "2026-10-15"
+      },
+      {
+        "id": "doc-004-2",
+        "name": "ஆதார் அட்டை நகல்",
+        "category": "identity",
+        "fileNumber": "UID-TN-1102",
+        "status": "verified",
+        "uploadedAt": "2026-10-15"
+      },
+      {
+        "id": "doc-004-3",
+        "name": "களப் பரிசோதனை சான்றிதழ்",
+        "category": "training",
+        "fileNumber": "TEST-TRICHY-402",
+        "status": "verified",
+        "uploadedAt": "2026-10-16"
+      }
+    ],
+    "eligibilityChecks": [
+      {
+        "id": "chk-004-1",
+        "label": "இருசக்கர வாகன ஓட்டுநர் களப் பரிசோதனை",
+        "passed": true,
+        "requiresReview": false,
+        "notes": "8-வடிவ டிராக் சோதனையில் சிறப்பான தேர்ச்சி"
+      },
+      {
+        "id": "chk-004-2",
+        "label": "ஆவணங்கள் சரிபார்ப்பு",
+        "passed": true,
+        "requiresReview": false,
+        "notes": "அனைத்து ஆவணங்களும் அசல் ஆவணங்களுடன் ஒப்பிடப்பட்டு சரிபார்க்கப்பட்டது"
+      }
+    ],
+    "riskFlags": [],
+    "reviewNotes": "அனைத்து நிபந்தனைகளும் பூர்த்தி செய்யப்பட்டுள்ளன. புதிய உரிமம் அச்சிட அனுப்பி வைக்கப்படுகிறது.",
+    "history": [
+      {
+        "id": "hist-004-1",
+        "timestamp": "2026-10-15 11:00",
+        "action": "submitted",
+        "officerName": "பொது போர்ட்டல் அமைப்பு",
+        "officerRole": "சிஸ்டம்",
+        "decisionText": "விண்ணப்பம் சமர்ப்பிக்கப்பட்டது"
+      },
+      {
+        "id": "hist-004-2",
+        "timestamp": "2026-10-16 15:30",
+        "action": "under_review",
+        "officerName": "மு. கார்த்திகேயன்",
+        "officerRole": "MVI",
+        "decisionText": "கள ஆய்வு மற்றும் ஆவண சரிபார்ப்பு மேற்கொள்ளப்பட்டது"
+      },
+      {
+        "id": "hist-004-3",
+        "timestamp": "2026-10-17 10:15",
+        "action": "approved",
+        "officerName": "மு. கார்த்திகேயன்",
+        "officerRole": "MVI",
+        "decisionText": "விண்ணப்பத்திற்கு இறுதி ஒப்புதல் அளிக்கப்பட்டது",
+        "notes": "ஓட்டுநர் உரிம அட்டை அச்சிடப் பரிந்துரைக்கப்பட்டது"
+      }
+    ],
+    "lastUpdated": "2026-10-17 10:15"
+  },
+  {
+    "id": "app-005",
+    "applicationNumber": "TN-2026-RN-30299",
+    "applicantName": "இரா. முத்தையா",
+    "applicantNameEn": "R. Muthaiya",
+    "applicationType": "RENEWAL",
+    "age": 62,
+    "gender": "male",
+    "dob": "1964-01-19",
+    "phoneNumber": "94440 55678",
+    "email": "muthaiya.r@yahoo.com",
+    "district": "சேலம்",
+    "rtoCode": "TN-27 (சேலம் மேற்கு)",
+    "address": "15, சாரதா கல்லூரி சாலை, அழகாபுரம், சேலம் - 636016",
+    "submittedDate": "2026-10-12",
+    "status": "rejected",
+    "priority": "medium",
+    "vehicleClass": ["LMV", "TRANS"],
+    "documents": [
+      {
+        "id": "doc-005-1",
+        "name": "பழைய ஓட்டுநர் உரிமம்",
+        "category": "existing_licence",
+        "fileNumber": "DL-TN27-1999-5512",
+        "status": "verified",
+        "uploadedAt": "2026-10-12"
+      },
+      {
+        "id": "doc-005-2",
+        "name": "படிவம் 1A மருத்துவச் சான்றிதழ்",
+        "category": "medical",
+        "fileNumber": "MED-SLM-991",
+        "status": "rejected",
+        "uploadedAt": "2026-10-12",
+        "notes": "பார்வைத் திறன் பரிசோதனையில் தகுதியற்றதாக மருத்துவரால் குறிப்பிடப்பட்டுள்ளது"
+      }
+    ],
+    "eligibilityChecks": [
+      {
+        "id": "chk-005-1",
+        "label": "மருத்துவத் தகுதி (கண் பார்வை மற்றும் செவித்திறன்)",
+        "passed": false,
+        "requiresReview": true,
+        "notes": "கண்பார்வை குறைபாடு காரணமாக மருத்துவரால் தகுதியின்மை வழங்கப்பட்டுள்ளது"
+      },
+      {
+        "id": "chk-005-2",
+        "label": "வணிக வாகன ஓட்டுநர் விதிமுறைகள் தகுதி",
+        "passed": false,
+        "requiresReview": true,
+        "notes": "வணிக வாகனத்திற்கு தகுதி இல்லை"
+      }
+    ],
+    "riskFlags": ["மருத்துவத் தகுதிச் சான்றிதழ் தோல்வி", "பார்வைத் திறன் குறைபாடு"],
+    "reviewNotes": "மருத்துவப் படிவம் 1A-ல் கண் பார்வைத் தகுதி குறைவாக உள்ளதால் உரிமம் புதுப்பிக்க இயலாது.",
+    "history": [
+      {
+        "id": "hist-005-1",
+        "timestamp": "2026-10-12 14:00",
+        "action": "submitted",
+        "officerName": "பொது போர்ட்டல் அமைப்பு",
+        "officerRole": "சிஸ்டம்",
+        "decisionText": "புதுப்பித்தல் சமர்ப்பிக்கப்பட்டது"
+      },
+      {
+        "id": "hist-005-2",
+        "timestamp": "2026-10-14 11:45",
+        "action": "rejected",
+        "officerName": "மு. கார்த்திகேயன்",
+        "officerRole": "MVI",
+        "decisionText": "விண்ணப்பம் நிராகரிக்கப்பட்டது",
+        "reason": "படிவம் 1A மருத்துவ பரிசோதனை அறிக்கையில் பார்வைத் திறன் தகுதியற்றது என மருத்துவரால் சான்றளிக்கப்பட்டுள்ளதால் நிராகரிக்கப்படுகிறது."
+      }
+    ],
+    "lastUpdated": "2026-10-14 11:45"
+  },
+  {
+    "id": "app-006",
+    "applicationNumber": "TN-2026-LL-10088",
+    "applicantName": "த. திவ்யா",
+    "applicantNameEn": "T. Divya",
+    "applicationType": "LL",
+    "age": 17,
+    "gender": "female",
+    "dob": "2009-02-14",
+    "phoneNumber": "99620 44321",
+    "email": "divya.t2009@gmail.com",
+    "district": "ஈரோடு",
+    "rtoCode": "TN-33 (ஈரோடு கிழக்கு)",
+    "address": "8, பெருந்துறை சாலை, வீரப்பன்சத்திரம், ஈரோடு - 638004",
+    "submittedDate": "2026-10-22",
+    "status": "pending",
+    "priority": "high",
+    "vehicleClass": ["LMV"],
+    "documents": [
+      {
+        "id": "doc-006-1",
+        "name": "ஆதார் அட்டை நகல்",
+        "category": "identity",
+        "fileNumber": "UID-TN-3391",
+        "status": "verified",
+        "uploadedAt": "2026-10-22"
+      },
+      {
+        "id": "doc-006-2",
+        "name": "பிறப்புச் சான்றிதழ்",
+        "category": "age",
+        "fileNumber": "BC-ERD-2009-112",
+        "status": "verified",
+        "uploadedAt": "2026-10-22",
+        "notes": "பிறந்த தேதி: 14-02-2009"
+      }
+    ],
+    "eligibilityChecks": [
+      {
+        "id": "chk-006-1",
+        "label": "குறைந்தபட்ச வயதுத் தகுதி (LMV வாகனத்திற்கு 18 வயது கட்டாயம்)",
+        "passed": false,
+        "requiresReview": true,
+        "notes": "விண்ணப்பதாரர் வயது 17 மட்டுமே. நான்கு சக்கர வாகனத்திற்கு 18 வயது நிறைவடைய வேண்டும்."
+      }
+    ],
+    "riskFlags": ["வயது குறைபாடு (LMV-க்கு 18 வயது கட்டாயம்)", "முரண்பட்ட வாகனப் பிரிவு"],
+    "reviewNotes": "விண்ணப்பதாரருக்கு 17 வயது மட்டுமே நிறைவடைந்துள்ளது. 50cc கீழ் உள்ள கியர் இல்லாத இருசக்கர வாகனத்திற்கு மட்டுமே 16-18 வயதில் தகுதி உண்டு; LMV-க்கு 18 வயது நிறைவு அவசியம்.",
+    "history": [
+      {
+        "id": "hist-006-1",
+        "timestamp": "2026-10-22 16:30",
+        "action": "submitted",
+        "officerName": "பொது போர்ட்டல் அமைப்பு",
+        "officerRole": "சிஸ்டம்",
+        "decisionText": "விண்ணப்பம் பெறப்பட்டது"
+      }
+    ],
+    "lastUpdated": "2026-10-22 16:30"
+  },
+  {
+    "id": "app-007",
+    "applicationNumber": "TN-2026-DL-21045",
+    "applicantName": "மா. சரவணன்",
+    "applicantNameEn": "M. Saravanan",
+    "applicationType": "DL",
+    "age": 32,
+    "gender": "male",
+    "dob": "1994-06-10",
+    "phoneNumber": "98410 77651",
+    "email": "saravanan.m@gmail.com",
+    "district": "திருநெல்வேலி",
+    "rtoCode": "TN-72 (திருநெல்வேலி)",
+    "address": "104, தெற்கு ரத வீதி, பாளையங்கோட்டை, திருநெல்வேலி - 627002",
+    "submittedDate": "2026-10-19",
+    "status": "under_review",
+    "priority": "medium",
+    "vehicleClass": ["LMV", "MCWG"],
+    "documents": [
+      {
+        "id": "doc-007-1",
+        "name": "பழகுநர் உரிமம் LLR",
+        "category": "existing_licence",
+        "fileNumber": "LLR-TN72-2026-5541",
+        "status": "verified",
+        "uploadedAt": "2026-10-19"
+      },
+      {
+        "id": "doc-007-2",
+        "name": "படிவம் 5 ஓட்டுநர் பயிற்சி பள்ளி சான்றிதழ்",
+        "category": "training",
+        "fileNumber": "DS-TNV-098",
+        "status": "pending",
+        "uploadedAt": "2026-10-19",
+        "notes": "பயிற்சிப் பள்ளி முத்திரை மங்கலாக உள்ளது, மறுசரிபார்ப்பு தேவை"
+      },
+      {
+        "id": "doc-007-3",
+        "name": "ஆதார் அட்டை",
+        "category": "identity",
+        "fileNumber": "UID-TN-7210",
+        "status": "verified",
+        "uploadedAt": "2026-10-19"
+      }
+    ],
+    "eligibilityChecks": [
+      {
+        "id": "chk-007-1",
+        "label": "களப் பரிசோதனை முடிவுகள் (Track Test)",
+        "passed": true,
+        "requiresReview": false,
+        "notes": "தேர்ச்சி பெற்றுள்ளார்"
+      },
+      {
+        "id": "chk-007-2",
+        "label": "பயிற்சிப் பள்ளி சான்றிதழ் உண்மைத்தன்மை",
+        "passed": false,
+        "requiresReview": true,
+        "notes": "முத்திரை சரிபார்ப்பு நிலுவையில் உள்ளது"
+      }
+    ],
+    "riskFlags": ["பயிற்சி பள்ளி சான்றிதழ் முத்திரை சரிபார்ப்பு தேவை"],
+    "reviewNotes": "பயிற்சி பள்ளி சான்றிதழில் RTO அங்கீகார முத்திரை தெளிவாக இல்லை. தெளிவான சான்றிதழை கோரலாம்.",
+    "history": [
+      {
+        "id": "hist-007-1",
+        "timestamp": "2026-10-19 12:20",
+        "action": "submitted",
+        "officerName": "பொது போர்ட்டல் அமைப்பு",
+        "officerRole": "சிஸ்டம்",
+        "decisionText": "சமர்ப்பிக்கப்பட்டது"
+      },
+      {
+        "id": "hist-007-2",
+        "timestamp": "2026-10-21 14:15",
+        "action": "under_review",
+        "officerName": "மு. கார்த்திகேயன்",
+        "officerRole": "MVI",
+        "decisionText": "ஆவண ஆய்வு நிலுவையில் வைக்கப்பட்டுள்ளது"
+      }
+    ],
+    "lastUpdated": "2026-10-21 14:15"
+  },
+  {
+    "id": "app-008",
+    "applicationNumber": "TN-2026-RN-30452",
+    "applicantName": "ஜெ. ஆரோக்கிய மேரி",
+    "applicantNameEn": "J. Arockia Mary",
+    "applicationType": "RENEWAL",
+    "age": 42,
+    "gender": "female",
+    "dob": "1984-04-18",
+    "phoneNumber": "94420 33119",
+    "email": "arockia.mary@hotmail.com",
+    "district": "தஞ்சாவூர்",
+    "rtoCode": "TN-49 (தஞ்சாவூர்)",
+    "address": "52, மருத்துவக் கல்லூரி சாலை, தஞ்சாவூர் - 613004",
+    "submittedDate": "2026-10-23",
+    "status": "pending",
+    "priority": "low",
+    "vehicleClass": ["LMV"],
+    "documents": [
+      {
+        "id": "doc-008-1",
+        "name": "முந்தைய ஓட்டுநர் உரிமம்",
+        "category": "existing_licence",
+        "fileNumber": "DL-TN49-2006-8812",
+        "status": "verified",
+        "uploadedAt": "2026-10-23"
+      },
+      {
+        "id": "doc-008-2",
+        "name": "படிவம் 1A மருத்துவ சான்றிதழ்",
+        "category": "medical",
+        "fileNumber": "MED-TNJ-2026-441",
+        "status": "verified",
+        "uploadedAt": "2026-10-23",
+        "notes": "அரசு தலைமை மருத்துவமனை மருத்துவரால் சான்றளிக்கப்பட்டது"
+      },
+      {
+        "id": "doc-008-3",
+        "name": "குடும்ப அட்டை (முகவரிச் சான்று)",
+        "category": "address",
+        "fileNumber": "RC-TN49-771",
+        "status": "verified",
+        "uploadedAt": "2026-10-23"
+      }
+    ],
+    "eligibilityChecks": [
+      {
+        "id": "chk-008-1",
+        "label": "மருத்துவத் தகுதி (படிவம் 1A)",
+        "passed": true,
+        "requiresReview": false,
+        "notes": "உடற்தகுதி மற்றும் பார்வைத்திறன் சரியாக உள்ளது"
+      },
+      {
+        "id": "chk-008-2",
+        "label": "முந்தைய உரிமம் செல்லுபடியாகும் தன்மை",
+        "passed": true,
+        "requiresReview": false,
+        "notes": "தடையில்லாச் சான்று தேவையில்லை, அதே RTO வரம்பு"
+      }
+    ],
+    "riskFlags": [],
+    "reviewNotes": "அனைத்து ஆவணங்களும் விதிகளின்படி உள்ளன. ஒப்புதல் வழங்கலாம்.",
+    "history": [
+      {
+        "id": "hist-008-1",
+        "timestamp": "2026-10-23 09:40",
+        "action": "submitted",
+        "officerName": "பொது போர்ட்டல் அமைப்பு",
+        "officerRole": "சிஸ்டம்",
+        "decisionText": "புதுப்பித்தல் கோரிக்கை பெறப்பட்டது"
+      }
+    ],
+    "lastUpdated": "2026-10-23 09:40"
+  },
+  {
+    "id": "app-009",
+    "applicationNumber": "TN-2026-LL-10115",
+    "applicantName": "முகமது ரபீக்",
+    "applicantNameEn": "Mohamed Rafeeq",
+    "applicationType": "LL",
+    "age": 21,
+    "gender": "male",
+    "dob": "2005-09-12",
+    "phoneNumber": "98409 66554",
+    "email": "rafeeq.m21@gmail.com",
+    "district": "வேலூர்",
+    "rtoCode": "TN-23 (வேலூர்)",
+    "address": "19/A, காட்பாடி மெயின் ரோடு, வேலூர் - 632006",
+    "submittedDate": "2026-10-24",
+    "status": "pending",
+    "priority": "high",
+    "vehicleClass": ["MCWG"],
+    "documents": [
+      {
+        "id": "doc-009-1",
+        "name": "வாக்காளர் அடையாள அட்டை",
+        "category": "identity",
+        "fileNumber": "EPIC-TN23-99812",
+        "status": "verified",
+        "uploadedAt": "2026-10-24"
+      },
+      {
+        "id": "doc-009-2",
+        "name": "முகவரிச் சான்று (வாடகை ஒப்பந்தம்)",
+        "category": "address",
+        "fileNumber": "RENT-AGR-2026",
+        "status": "pending",
+        "uploadedAt": "2026-10-24",
+        "notes": "பதிவு செய்யப்படாத வாடகை ஒப்பந்தம், நோட்டரி முத்திரை இல்லை"
+      }
+    ],
+    "eligibilityChecks": [
+      {
+        "id": "chk-009-1",
+        "label": "வயது தகுதி சரிபார்ப்பு (18+)",
+        "passed": true,
+        "requiresReview": false,
+        "notes": "வயது 21"
+      },
+      {
+        "id": "chk-009-2",
+        "label": "செல்லுபடியாகும் முகவரிச் சான்று",
+        "passed": false,
+        "requiresReview": true,
+        "notes": "நோட்டரி சான்றொப்பம் இல்லாத வாடகை ஒப்பந்தம் நிராகரிக்கப்பட வாய்ப்புள்ளது"
+      }
+    ],
+    "riskFlags": ["முகவரிச் சான்றில் நோட்டரி சான்றொப்பம் இல்லை", "கூடுதல் முகவரி ஆவணம் தேவை"],
+    "reviewNotes": "பதிவு செய்யப்பட்ட வாடகை ஒப்பந்தம் அல்லது ஆதார் அட்டையை முகவரி சான்றாக பதிவேற்ற கோரப்பட வேண்டும்.",
+    "history": [
+      {
+        "id": "hist-009-1",
+        "timestamp": "2026-10-24 08:30",
+        "action": "submitted",
+        "officerName": "பொது போர்ட்டல் அமைப்பு",
+        "officerRole": "சிஸ்டம்",
+        "decisionText": "விண்ணப்பம் சமர்ப்பிக்கப்பட்டது"
+      }
+    ],
+    "lastUpdated": "2026-10-24 08:30"
+  },
+  {
+    "id": "app-010",
+    "applicationNumber": "TN-2026-DL-21190",
+    "applicantName": "கி. பாலகிருஷ்ணன்",
+    "applicantNameEn": "K. Balakrishnan",
+    "applicationType": "DL",
+    "age": 35,
+    "gender": "male",
+    "dob": "1991-03-29",
+    "phoneNumber": "94431 11223",
+    "email": "bala.krishnan91@gmail.com",
+    "district": "திண்டுக்கல்",
+    "rtoCode": "TN-57 (திண்டுக்கல்)",
+    "address": "66, திருச்சி சாலை, திண்டுக்கல் - 624005",
+    "submittedDate": "2026-10-17",
+    "status": "approved",
+    "priority": "low",
+    "vehicleClass": ["LMV", "MCWG"],
+    "documents": [
+      {
+        "id": "doc-010-1",
+        "name": "பழகுநர் உரிமம் LLR",
+        "category": "existing_licence",
+        "fileNumber": "LLR-TN57-2026-7812",
+        "status": "verified",
+        "uploadedAt": "2026-10-17"
+      },
+      {
+        "id": "doc-010-2",
+        "name": "படிவம் 5 பயிற்சி சான்றிதழ்",
+        "category": "training",
+        "fileNumber": "DS-DGL-334",
+        "status": "verified",
+        "uploadedAt": "2026-10-17"
+      },
+      {
+        "id": "doc-010-3",
+        "name": "ஆதார் அட்டை",
+        "category": "identity",
+        "fileNumber": "UID-TN-5701",
+        "status": "verified",
+        "uploadedAt": "2026-10-17"
+      }
+    ],
+    "eligibilityChecks": [
+      {
+        "id": "chk-010-1",
+        "label": "ஓட்டுநர் களப்பரிசோதனை தேர்ச்சி",
+        "passed": true,
+        "requiresReview": false,
+        "notes": "தேர்ச்சி பெற்றார்"
+      },
+      {
+        "id": "chk-010-2",
+        "label": "பயோமெட்ரிக் கைரேகை பதிவு",
+        "passed": true,
+        "requiresReview": false,
+        "notes": "RTO மையத்தில் பயோமெட்ரிக் சரிபார்க்கப்பட்டது"
+      }
+    ],
+    "riskFlags": [],
+    "reviewNotes": "அனைத்து கட்டங்களும் வெற்றியுடன் முடிந்தது. உரிமம் வழங்கப்பட்டது.",
+    "history": [
+      {
+        "id": "hist-010-1",
+        "timestamp": "2026-10-17 11:15",
+        "action": "submitted",
+        "officerName": "பொது போர்ட்டல் அமைப்பு",
+        "officerRole": "சிஸ்டம்",
+        "decisionText": "சமர்ப்பிக்கப்பட்டது"
+      },
+      {
+        "id": "hist-010-2",
+        "timestamp": "2026-10-18 16:00",
+        "action": "approved",
+        "officerName": "சு. லட்சுமி",
+        "officerRole": "ARTO",
+        "decisionText": "ஒப்புதல் அளிக்கப்பட்டது",
+        "notes": "ஸ்மார்ட் கார்டு அச்சிட அனுப்பப்பட்டது"
+      }
+    ],
+    "lastUpdated": "2026-10-18 16:00"
+  },
+  {
+    "id": "app-011",
+    "applicationNumber": "TN-2026-RN-30588",
+    "applicantName": "எஸ். கவிதா",
+    "applicantNameEn": "S. Kavitha",
+    "applicationType": "RENEWAL",
+    "age": 39,
+    "gender": "female",
+    "dob": "1987-12-05",
+    "phoneNumber": "98433 77889",
+    "email": "kavitha.s87@gmail.com",
+    "district": "காஞ்சிபுரம்",
+    "rtoCode": "TN-21 (காஞ்சிபுரம்)",
+    "address": "4/18, காந்தி சாலை, காஞ்சிபுரம் - 631501",
+    "submittedDate": "2026-10-22",
+    "status": "under_review",
+    "priority": "medium",
+    "vehicleClass": ["MCWG", "LMV"],
+    "documents": [
+      {
+        "id": "doc-011-1",
+        "name": "முந்தைய ஓட்டுநர் உரிமம்",
+        "category": "existing_licence",
+        "fileNumber": "DL-TN21-2006-3390",
+        "status": "verified",
+        "uploadedAt": "2026-10-22"
+      },
+      {
+        "id": "doc-011-2",
+        "name": "ஆதார் அட்டை நகல்",
+        "category": "identity",
+        "fileNumber": "UID-TN-2104",
+        "status": "verified",
+        "uploadedAt": "2026-10-22"
+      }
+    ],
+    "eligibilityChecks": [
+      {
+        "id": "chk-011-1",
+        "label": "40 வயதுக்குட்பட்ட சுய உடற்தகுதி பிரகடனம்",
+        "passed": true,
+        "requiresReview": false,
+        "notes": "வயது 39 என்பதால் படிவம் 1 மட்டுமே போதுமானது (படிவம் 1A விலக்கு)"
+      },
+      {
+        "id": "chk-011-2",
+        "label": "ஈ-சலான் நிலுவை அபராத சோதனை",
+        "passed": true,
+        "requiresReview": false,
+        "notes": "நிலுவை அபராதங்கள் எதுவும் இல்லை"
+      }
+    ],
+    "riskFlags": [],
+    "reviewNotes": "ஆய்வில் உள்ளது. ஆவணங்கள் திருப்திகரமாக உள்ளன.",
+    "history": [
+      {
+        "id": "hist-011-1",
+        "timestamp": "2026-10-22 13:40",
+        "action": "submitted",
+        "officerName": "பொது போர்ட்டல் அமைப்பு",
+        "officerRole": "சிஸ்டம்",
+        "decisionText": "புதுப்பித்தல் கோரிக்கை சமர்ப்பிக்கப்பட்டது"
+      },
+      {
+        "id": "hist-011-2",
+        "timestamp": "2026-10-23 11:00",
+        "action": "under_review",
+        "officerName": "மு. கார்த்திகேயன்",
+        "officerRole": "MVI",
+        "decisionText": "ஆவண சரிபார்ப்பு மேற்கொள்ளப்படுகிறது"
+      }
+    ],
+    "lastUpdated": "2026-10-23 11:00"
+  },
+  {
+    "id": "app-012",
+    "applicationNumber": "TN-2026-DL-21250",
+    "applicantName": "ரா. செல்வேந்திரன்",
+    "applicantNameEn": "R. Selvendran",
+    "applicationType": "DL",
+    "age": 26,
+    "gender": "male",
+    "dob": "2000-05-15",
+    "phoneNumber": "94429 88123",
+    "email": "selvendran.r@yahoo.in",
+    "district": "கன்னியாகுமரி",
+    "rtoCode": "TN-74 (நாகர்கோவில்)",
+    "address": "11, நீதிமன்ற சாலை, நாகர்கோவில், கன்னியாகுமரி - 629001",
+    "submittedDate": "2026-10-20",
+    "status": "returned",
+    "priority": "high",
+    "vehicleClass": ["LMV"],
+    "documents": [
+      {
+        "id": "doc-012-1",
+        "name": "பழகுநர் உரிமம் LLR",
+        "category": "existing_licence",
+        "fileNumber": "LLR-TN74-2026-1188",
+        "status": "rejected",
+        "uploadedAt": "2026-10-20",
+        "notes": "LLR காலாவதியாகி விட்டது (காலாவதியான தேதி: 2026-09-10)"
+      },
+      {
+        "id": "doc-012-2",
+        "name": "படிவம் 5 ஓட்டுநர் பள்ளி சான்றிதழ்",
+        "category": "training",
+        "fileNumber": "DS-NGK-201",
+        "status": "verified",
+        "uploadedAt": "2026-10-20"
+      },
+      {
+        "id": "doc-012-3",
+        "name": "ஆதார் அட்டை",
+        "category": "identity",
+        "fileNumber": "UID-TN-7422",
+        "status": "verified",
+        "uploadedAt": "2026-10-20"
+      }
+    ],
+    "eligibilityChecks": [
+      {
+        "id": "chk-012-1",
+        "label": "செல்லுபடியாகும் பழகுநர் உரிமம் நிலை",
+        "passed": false,
+        "requiresReview": true,
+        "notes": "LLR செல்லுபடியாகும் 6 மாத கால அவகாசம் முடிந்துவிட்டது"
+      }
+    ],
+    "riskFlags": ["LLR காலாவதியாகிவிட்டது", "மீண்டும் புதிய LLR பெற வேண்டும்"],
+    "reviewNotes": "பழகுநர் உரிமம் 6 மாத காலத்தை கடந்து காலாவதியாகி உள்ளதால் நிரந்தர ஓட்டுநர் உரிமத்திற்கு விண்ணப்பிக்க இயலாது. புதிய LLR பெற அறிவுறுத்தவும்.",
+    "history": [
+      {
+        "id": "hist-012-1",
+        "timestamp": "2026-10-20 15:00",
+        "action": "submitted",
+        "officerName": "பொது போர்ட்டல் அமைப்பு",
+        "officerRole": "சிஸ்டம்",
+        "decisionText": "விண்ணப்பம் சமர்ப்பிக்கப்பட்டது"
+      },
+      {
+        "id": "hist-012-2",
+        "timestamp": "2026-10-21 16:30",
+        "action": "returned",
+        "officerName": "சு. லட்சுமி",
+        "officerRole": "ARTO",
+        "decisionText": "திருத்தத்திற்கு திருப்பி அனுப்பப்பட்டது",
+        "reason": "சமர்ப்பிக்கப்பட்ட பழகுநர் உரிமம் (LLR) காலாவதியாகி விட்டது. புதிய LLR எடுத்து விண்ணப்பிக்கவும்."
+      }
+    ],
+    "lastUpdated": "2026-10-21 16:30"
+  },
+  {
+    "id": "app-013",
+    "applicationNumber": "TN-2026-LL-10140",
+    "applicantName": "ஆ. தாமோதரன்",
+    "applicantNameEn": "A. Damodharan",
+    "applicationType": "LL",
+    "age": 22,
+    "gender": "male",
+    "dob": "2004-07-20",
+    "phoneNumber": "98402 33445",
+    "email": "damodharan.a@gmail.com",
+    "district": "சென்னை",
+    "rtoCode": "TN-02 (சென்னை அண்ணா நகர்)",
+    "address": "73, சாந்தி காலனி, அண்ணா நகர், சென்னை - 600040",
+    "submittedDate": "2026-10-24",
+    "status": "pending",
+    "priority": "medium",
+    "vehicleClass": ["MCWG", "LMV"],
+    "documents": [
+      {
+        "id": "doc-013-1",
+        "name": "ஆதார் அட்டை",
+        "category": "identity",
+        "fileNumber": "UID-TN-0211",
+        "status": "verified",
+        "uploadedAt": "2026-10-24"
+      },
+      {
+        "id": "doc-013-2",
+        "name": "பத்தாம் வகுப்பு சான்றிதழ்",
+        "category": "age",
+        "fileNumber": "SSLC-TN-2020-55",
+        "status": "verified",
+        "uploadedAt": "2026-10-24"
+      }
+    ],
+    "eligibilityChecks": [
+      {
+        "id": "chk-013-1",
+        "label": "வயது தகுதி (18+)",
+        "passed": true,
+        "requiresReview": false,
+        "notes": "வயது 22"
+      },
+      {
+        "id": "chk-013-2",
+        "label": "ஆன்லைன் சாலை விதிகள் தேர்வு",
+        "passed": true,
+        "requiresReview": false,
+        "notes": "18/20 மதிப்பெண் பெற்றுள்ளார்"
+      }
+    ],
+    "riskFlags": [],
+    "reviewNotes": "புதிய விண்ணப்பம். ஆவணங்கள் சரியாக உள்ளன.",
+    "history": [
+      {
+        "id": "hist-013-1",
+        "timestamp": "2026-10-24 10:15",
+        "action": "submitted",
+        "officerName": "பொது போர்ட்டல் அமைப்பு",
+        "officerRole": "சிஸ்டம்",
+        "decisionText": "விண்ணப்பம் சமர்ப்பிக்கப்பட்டது"
+      }
+    ],
+    "lastUpdated": "2026-10-24 10:15"
+  },
+  {
+    "id": "app-014",
+    "applicationNumber": "TN-2026-DL-21310",
+    "applicantName": "பெ. மணிகண்டன்",
+    "applicantNameEn": "P. Manikandan",
+    "applicationType": "DL",
+    "age": 29,
+    "gender": "male",
+    "dob": "1997-02-18",
+    "phoneNumber": "97892 44556",
+    "email": "manikandan.p97@gmail.com",
+    "district": "கோயம்புத்தூர்",
+    "rtoCode": "TN-37 (கோயம்புத்தூர் தெற்கு)",
+    "address": "88, காந்திபுரம் 5வது வீதி, கோயம்புத்தூர் - 641012",
+    "submittedDate": "2026-10-23",
+    "status": "pending",
+    "priority": "high",
+    "vehicleClass": ["LMV"],
+    "documents": [
+      {
+        "id": "doc-014-1",
+        "name": "பழகுநர் உரிமம் LLR",
+        "category": "existing_licence",
+        "fileNumber": "LLR-TN37-2026-9011",
+        "status": "verified",
+        "uploadedAt": "2026-10-23"
+      },
+      {
+        "id": "doc-014-2",
+        "name": "படிவம் 5 ஓட்டுநர் பயிற்சி பள்ளி சான்றிதழ்",
+        "category": "training",
+        "fileNumber": "DS-CBE-988",
+        "status": "verified",
+        "uploadedAt": "2026-10-23"
+      },
+      {
+        "id": "doc-014-3",
+        "name": "ஆதார் அட்டை",
+        "category": "identity",
+        "fileNumber": "UID-TN-3719",
+        "status": "verified",
+        "uploadedAt": "2026-10-23"
+      }
+    ],
+    "eligibilityChecks": [
+      {
+        "id": "chk-014-1",
+        "label": "களப் பரிசோதனை (Driving Track Test)",
+        "passed": true,
+        "requiresReview": false,
+        "notes": "நேரடி தேர்வில் தேர்ச்சி பெற்றார்"
+      },
+      {
+        "id": "chk-014-2",
+        "label": "குறைந்தபட்ச கால அளவு (LLR பெற்று 30 நாட்கள்)",
+        "passed": true,
+        "requiresReview": false,
+        "notes": "45 நாட்கள் நிறைவு"
+      }
+    ],
+    "riskFlags": [],
+    "reviewNotes": "உயர் முன்னுரிமை அரசுப்பணி தேர்வாளர். உடனடியாக ஆய்வு செய்து முடிவெடுக்கப்பட வேண்டும்.",
+    "history": [
+      {
+        "id": "hist-014-1",
+        "timestamp": "2026-10-23 15:45",
+        "action": "submitted",
+        "officerName": "பொது போர்ட்டல் அமைப்பு",
+        "officerRole": "சிஸ்டம்",
+        "decisionText": "விண்ணப்பம் பெறப்பட்டது"
+      }
+    ],
+    "lastUpdated": "2026-10-23 15:45"
+  }
+]
+

@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+:root {
+  --font-tamil-stack: "Noto Sans Tamil", "Latha", "Nirmala UI", "Mukti", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+body {
+  font-family: var(--font-tamil-stack);
+  background-color: #f8fafc;
+  color: #0f172a;
+}
