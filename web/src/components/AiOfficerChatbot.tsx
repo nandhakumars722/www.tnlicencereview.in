@@ -132,7 +132,10 @@ export function AiOfficerChatbot() {
           {/* Green Sparkle Star positioned at top-right */}
           <span className="absolute -top-1.5 -right-1.5 text-emerald-400 drop-shadow-[0_0_8px_rgba(52,211,153,0.8)] animate-pulse">
             <svg
+              width="20"
+              height="20"
               className="w-5 h-5 fill-current"
+              style={{ width: 20, height: 20 }}
               viewBox="0 0 24 24"
               xmlns="http://www.w3.org/2000/svg"
             >
