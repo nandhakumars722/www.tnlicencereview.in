@@ -1,5 +1,5 @@
 # தமிழ்நாடு அரசு — ஓட்டுநர் உரிம விண்ணப்ப மறுஆய்வு முகப்புப்பலகை
-### Tamil Nadu Driving Licence Application Review Officer Dashboard (Kenpath AI Assignment MVP)
+### Tamil Nadu Driving Licence Application Review Officer Dashboard.
 
 A responsive, government-grade administrative dashboard built with **Next.js (App Router)**, **TypeScript**, **Tailwind CSS**, and **Lucide React**. Designed specifically for Motor Vehicle Inspectors (MVI) and Regional Transport Officers (RTO) in Tamil Nadu to review, verify, and decide upon driving licence applications in natural, professional Tamil.
 
@@ -261,5 +261,3 @@ The application is ready to deploy to any modern hosting platform:
 5. **SMS / WhatsApp Alerts:** Send automated status updates in Tamil to applicants via TNeGA SMS gateway.
 
 ---
-
-**Developed for the Kenpath Full Stack AI Engineer Technical Assignment — Tamil Nadu Transport Department Officer Dashboard.**
